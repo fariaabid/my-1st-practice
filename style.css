@@ -1,0 +1,32 @@
+.orange-highlight{
+    color: #ff4500;
+    font-weight: 900;
+
+}
+
+.link-button{
+    color: whitesmoke;
+    padding: 10px 20px;
+    background-color: #03b3f8;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: large;
+    height: 80px;
+    margin-top:5%;
+}
+
+.half-width{
+    margin-left:5%;
+    float:left;
+    width:40%;
+    padding-left:5%;
+}
+.half-width img{
+    width: 100%;
+}
+
+.upper-section{
+    background-image: url(images/top-banner.png);
+    background-position: top;
+}
+
